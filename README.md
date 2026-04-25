@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 🔭 I'm currently working on **building intelligent AI systems** — agents, pipelines, and ML workflows using LangChain and LangGraph.<br><br>🌱 I'm currently learning **how to design and deploy end-to-end AI systems** — from classical ML with Scikit-Learn to deep learning with PyTorch and LLM-powered agentic workflows.<br><br>👯 I'm looking to collaborate on **AI agent projects, LLM applications, or ML systems** — especially anything involving LangGraph, RAG pipelines, or real-world deployment.<br><br>🤔 I'm looking for help with **breaking into AI engineering** — feedback on my projects, system design, and what it actually takes to get hired in this space.<br><br>💬 Ask me about **LangChain, LangGraph, PyTorch, and building AI pipelines from scratch.**<br><br>📫 How to reach me: www.linkedin.com/in/zohaib-akhtar-pro<br><br>😄 Pronouns: He
 
 
